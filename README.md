@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test1
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
@@ -29,3 +30,7 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# production_check
+testing app for angular cli
+>>>>>>> a3c10b88213e5182f02b8e1a12545c2b9a46e4d0
